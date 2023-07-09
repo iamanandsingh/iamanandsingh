@@ -68,9 +68,9 @@ I am 4th year Computer Science student currently doing major in Artificial Intel
 <!-- <li></li> -->
 
  <br/>
-
+<!--
 <img src="https://activity-graph.herokuapp.com/graph?username=iamanandsingh&custom_title=%20Anand's%20Contributions%20Graph&theme=react-dark"/>
-
+-->
 
 
 
