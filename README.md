@@ -4,7 +4,18 @@
 ## Hi there 👋
 
 🔥 
-I am 4th year Computer Science student currently doing major in Artificial Intelligence and Machine Learning, I have 2 years of experience in Flutter development    as well and recently I have developed and launched my own photo editing app on playstore. 
+🚀 Full-Stack Software Engineer | Haskell, Python, Node.js, React.js, Next.js | Distributed Systems & Performance Optimization
+
+I am a passionate software engineer with a strong background in backend development, API design, and distributed systems. With experience at Juspay Technologies, I have worked extensively with Haskell, Python, Java, and modern cloud technologies, building scalable, high-performance payment infrastructure.
+
+What I Do Best:
+✅ Backend & API Development – Designed and optimized REST & SOAP APIs, ensuring seamless merchant transactions and automation workflows.
+✅ Performance Optimization – Upgraded GHC compiler versions, optimized system throughput, and implemented benchmarking techniques, reducing AWS costs by 50% and improving latency by 20%.
+✅ Distributed Systems & DevOps – Experience with Docker, Kubernetes, Redis, AWS, and monitoring tools like Grafana & Kibana to maintain highly available systems.
+✅ Open Source Contributions – Improved multiple Haskell libraries, including fast-time and streamly-serialize-instances.
+
+What I’m Looking For:
+I am always excited about solving complex technical challenges and contributing to high-impact projects. I thrive in fast-paced environments, whether it’s backend engineering, system design, performance tuning, or scaling distributed systems. 
 
   <a href="https://play.google.com/store/apps/details?id=com.ripplapps.afterclicks">
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
