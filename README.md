@@ -4,7 +4,7 @@
 
 **Founder & CEO at [Arclusion](https://arclusion.com)**
 
-Building **Makepot** — an AI-native desktop editor for 3D game development & motion graphics.  
+Building **Makepot** — an AI-native desktop editor for 3D game development & motion graphics.
 Babylon.js · WebGPU · Browser-playable output.
 
 4 years of software engineering experience in backend, distributed systems & performance optimization.
