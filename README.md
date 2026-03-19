@@ -11,7 +11,7 @@ Babylon.js · WebGPU · Browser-playable output.
 
 <br/>
 
-<a href="https://arclusion.com"><img src="./arclusion-logo.svg" height="28" alt="Arclusion" /></a>
+<a href="https://arclusion.com"><img src="./arclusion-logo.svg" height="28" alt="Arclusion" /> Arclusion</a>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-singh-931a92163/)
 
 <br/>
